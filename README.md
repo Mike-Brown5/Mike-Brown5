@@ -43,4 +43,4 @@
 [stackoverflow]: https://stackoverflow.com/users/14599063/mike-brown
 [leetcode]: https://leetcode.com/Mike-Brown5/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike-Brown5&hide=html,php&layout=compact)](https://github.com/Mike-Brown5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mike-Brown5&hide=php&layout=compact)](https://github.com/Mike-Brown5/github-readme-stats)
