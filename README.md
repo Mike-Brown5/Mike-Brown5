@@ -6,7 +6,6 @@
 - 👯 Alwayes looking to learn from others and with others ☺️
 - 🥅 I love reading books and solving puzzels 🤗
 <br />
-[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2537310" style='border:none;'></iframe>]
 [![Mike](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2537310)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2537310)
 
 ### Connect with me:
