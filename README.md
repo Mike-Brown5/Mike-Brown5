@@ -67,12 +67,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mike-Brown5&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Brown5&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudtolba-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudtolba-tech&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike-Brown5&layout=compact&theme=tokyonight&hide_border=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudtolba-tech&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
 
 
@@ -89,7 +89,7 @@
 <h2 align="center">🚀 Top Contributions</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mike-Brown5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mahmoudtolba-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
