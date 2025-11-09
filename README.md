@@ -75,13 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike-Brown5&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
 
----
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mike-Brown5&theme=discord&no-bg=true&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
