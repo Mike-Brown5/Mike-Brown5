@@ -22,7 +22,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-tolba-5brown"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://x.com/Mike_5Brown"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://x.com/mtolba-tech"><img src="https://skillicons.dev/icons?i=x" width="45" /></a>
   <a href="https://instagram.com/itsmichaelbrown5"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
 </p>
 
