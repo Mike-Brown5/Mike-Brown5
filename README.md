@@ -22,10 +22,10 @@
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-tolba-5brown"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://x.com/mtolba-tech">
+  <a href="https://x.com/mtolba_tech">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="45" />
 </a>
-  <a href="https://instagram.com/itsmichaelbrown5"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://instagram.com/tolba.tech"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
 </p>
 
 ---
